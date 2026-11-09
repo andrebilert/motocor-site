@@ -1,0 +1,65 @@
+[
+  {
+    "brand": "honda",
+    "path": "/assets/brands/honda-hd.svg",
+    "originURL": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Honda_Logo.svg",
+    "composition": "Source SVG with viewport crop only, original paths preserved",
+    "viewBox": [
+      -1181,
+      -632,
+      2000,
+      1330
+    ],
+    "sha256": "c3603a97a4de74f53fc58be6c1b7ebf1b9bb63e60d6c11d6cb3f0b04510e22c1"
+  },
+  {
+    "brand": "bmw",
+    "path": "/assets/brands/bmw-hd.svg",
+    "originURL": "https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg",
+    "composition": "Unchanged source SVG",
+    "viewBox": null,
+    "sha256": "1fc281c5463625840b26ef8a59377743fa67236433b1eaa94013efa3b1248ef0"
+  },
+  {
+    "brand": "suzuki",
+    "path": "/assets/brands/suzuki-hd.svg",
+    "originURL": "https://upload.wikimedia.org/wikipedia/commons/4/44/Suzuki_logo_2025_%28symbol%29.svg",
+    "composition": "Unchanged source SVG",
+    "viewBox": null,
+    "sha256": "c13cadc057994e021b65361b90ac98a3f66462d7e1ec39a569a88d84d6fa9e11"
+  },
+  {
+    "brand": "triumph",
+    "path": "/assets/brands/triumph-hd.svg",
+    "originURL": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Triumph_Motorcycles_logo_and_claim_2015.svg",
+    "composition": "Source SVG with viewport crop only, original paths preserved",
+    "viewBox": [
+      33,
+      0,
+      133,
+      116
+    ],
+    "sha256": "f4e4fb4793fa6b83f1402f650d214d33c62f03711f4f0102547e11b3b4c332b7"
+  },
+  {
+    "brand": "yamaha",
+    "path": "/assets/brands/yamaha-hd.svg",
+    "originURL": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Yamaha_Motor_Logo_%28full%29.svg",
+    "composition": "Source SVG with viewport crop only, original paths preserved",
+    "viewBox": [
+      0,
+      0,
+      285,
+      285
+    ],
+    "sha256": "53ac36c487d21df203b12c3966ed544ae133d6b51bc054530175fbd294e8c8f3"
+  },
+  {
+    "brand": "kawasaki",
+    "path": "/assets/brands/kawasaki-hd.svg",
+    "originURL": "https://iconape.com/wp-content/files/vc/163262/svg/163262.svg",
+    "sourcePage": "https://iconape.com/kawasaki-river-mark-logo-logo-icon-svg-png.html",
+    "composition": "Unchanged source SVG, authentic River Mark gray variant",
+    "sha256": "0a69e19828a632e3f6387ff2b053c5dce1cfbe1578e1e8244e0eb613a28ba3c6"
+  }
+]
